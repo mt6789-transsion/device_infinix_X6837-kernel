@@ -52,7 +52,7 @@
 /vendor_dlkm/lib/modules/ccci_ccif.ko: /vendor_dlkm/lib/modules/ccci_md_all.ko /vendor_dlkm/lib/modules/transsion_tranlog.ko /vendor_dlkm/lib/modules/ccmni.ko /vendor_dlkm/lib/modules/rps_perf.ko /vendor_dlkm/lib/modules/ccci_auxadc.ko /vendor_dlkm/lib/modules/ccci_util_lib.ko /vendor_dlkm/lib/modules/mtk_pbm.ko /vendor_dlkm/lib/modules/mtk_mdpm.ko /vendor_dlkm/lib/modules/mtk_dynamic_loading_throttling.ko /vendor_dlkm/lib/modules/mtk_low_battery_throttling.ko
 /vendor_dlkm/lib/modules/mali_mgm_mt6789.ko:
 /vendor_dlkm/lib/modules/rps_perf.ko:
-/vendor_dlkm/lib/modules/pn553.ko:
+/vendor_dlkm/lib/modules/nfc_i2c.ko:
 /vendor_dlkm/lib/modules/mtk_core_ctl.ko: /vendor_dlkm/lib/modules/scheduler.ko /vendor_dlkm/lib/modules/cpufreq_sugov_ext.ko /vendor_dlkm/lib/modules/thermal_interface.ko /vendor_dlkm/lib/modules/mtk_gpufreq_wrapper.ko /vendor_dlkm/lib/modules/mtk_battery_oc_throttling.ko /vendor_dlkm/lib/modules/mtk_bp_thl.ko /vendor_dlkm/lib/modules/mtk_pbm.ko /vendor_dlkm/lib/modules/mtk_mdpm.ko /vendor_dlkm/lib/modules/mtk_dynamic_loading_throttling.ko /vendor_dlkm/lib/modules/mtk_low_battery_throttling.ko /vendor_dlkm/lib/modules/gpueb.ko /vendor_dlkm/lib/modules/mtk-ssc.ko /vendor_dlkm/lib/modules/mtk_tinysys_ipi.ko /vendor_dlkm/lib/modules/mtk_rpmsg_mbox.ko /vendor_dlkm/lib/modules/mtk-mbox.ko /vendor_dlkm/lib/modules/mtk_gpu_hal.ko
 /vendor_dlkm/lib/modules/mtk_qos.ko: /vendor_dlkm/lib/modules/sspm_v3.ko
 /vendor_dlkm/lib/modules/reboot-mode.ko:

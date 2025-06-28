@@ -192,7 +192,7 @@ focaltech_noflash_common.ko
 tkv.ko
 tkv_recovery.ko
 tran_rhi.ko
-pn553.ko
+nfc_i2c.ko
 transsion_tranlog.ko
 tran_fp.ko
 tran_perf_util.ko

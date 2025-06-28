@@ -254,8 +254,8 @@ alias of:N*T*Cmediatek,extcon-usb extcon_mtk_usb
 alias of:N*T*Cmediatek,extcon-usbC* extcon_mtk_usb
 alias of:N*T*Cmediatek,usb_meta meta
 alias of:N*T*Cmediatek,usb_metaC* meta
-alias of:N*T*Cnxp,pn544 pn553
-alias of:N*T*Cnxp,pn544C* pn553
+alias of:N*T*Cnxp,pn544 nfc_i2c
+alias of:N*T*Cnxp,pn544C* nfc_i2c
 alias of:N*T*Crichtek,rfc_ta rfc_ta
 alias of:N*T*Crichtek,rfc_taC* rfc_ta
 alias i2c:rfc_ta rfc_ta
